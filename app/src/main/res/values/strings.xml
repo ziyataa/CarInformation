@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Car Information</string>
+    <string-array name="JenisCompetible">
+        <item>BMW 4 Cabrio</item>
+        <item>boxster spyder</item>
+        <item>E class cabrio</item>
+        <item>MINI convertible</item>
+        <item>MX5</item>
+    </string-array>
+
+    <string-array name="JenisCoupe">
+        <item>BMW seri 4</item>
+        <item>Jaguar F</item>
+        <item>Nissan Silvia</item>
+        <item>Mercedes Benz CL</item>
+    </string-array>
+
+    <string-array name="JenisSuv">
+        <item>Daihatsu Terios</item>
+        <item>Toyota Rush</item>
+        <item>Toyota Land Cruiser</item>
+        <item>BMW X5</item>
+        <item>Lexus LX 570</item>
+        <item>Audi Q5</item>
+    </string-array>
+
+    <string-array name="JenisSedan">
+        <item>Audi A4</item>
+        <item>Audi A6</item>
+        <item>BMW 7 Series</item>
+        <item>Mercedes Benz S 450</item>
+        <item>Toyota Camry</item>
+    </string-array>
+</resources>
